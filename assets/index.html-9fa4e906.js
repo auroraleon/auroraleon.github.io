@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"home":true,"actions":[{"text":"文章","link":"/backend/","type":"secondary"}],"footer":"可能是网站备案"},"headers":[],"git":{"updatedTime":1684372389000,"contributors":[{"name":"dawnlion","email":"b1203380602@126.com","commits":1}]},"filePathRelative":"index.md"}');export{e as data};
