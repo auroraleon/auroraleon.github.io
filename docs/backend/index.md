@@ -1,5 +1,6 @@
 # Docker Engine在类Linux系统中的安装、使用、卸载
 ![image.png](https://static001.geekbang.org/resource/image/51/07/510709711a3424bdb0df927519025007.jpg?x-oss-process=image/resize,m_fill,h_400,w_818)
+
 ## 环境说明
 | 描述 | 说明 |
 | --- | --- |
